@@ -1,6 +1,4 @@
 """
-CSE310 SQL Database Workshop - Solution
-
 This simple database will store names, titles, and pay for employees.
 """
 
