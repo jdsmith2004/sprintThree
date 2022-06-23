@@ -12,13 +12,11 @@ This was written to eventually be modified and added to a future website.
 SQL Lite3
 
 The database is accessed as an array
-{Describe the structure (tables) of the relational database that you created.}
 
 # Development Environment
 
 I used repl.it as my code editor
 
-{Describe the programming language that you used and any libraries.}
 # Language:
 Python
 
