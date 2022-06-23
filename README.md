@@ -1,14 +1,11 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-This is a sql program written in python that allows the user to make edits to a database of employees. Features include adding, viewing, editing, and removing employees.
+This is a sql program written in python that allows the user to make edits to a database of employees. Features include adding, viewing, editing, and removing employees. I build this as a self introduction to SQL and as an oppurtunity to grow my knowledge and ability as a programmer.
 
 This was written to eventually be modified and added to a future website.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/86yFrkcrydc))
 
 # Relational Database
 
@@ -30,7 +27,6 @@ sqlite3
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Stack Overflow](https://stackoverflow.com/)
 * [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco?hl=en)
 
